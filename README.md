@@ -69,7 +69,7 @@ list of scanning services filtered by RIoTPot is below:
  8. BinaryEdge (https://www.binaryedge.io/})
  9. ipip.net (https://en.ipip.net/)
  10. Arbor Observatory (https://www.arbor-observatory.com/)
- 11. CriminalIP (https://security.criminalip.com/)
+ 11. CriminalIP (https://criminalip.io/)
  12. BitSight (https://www.bitsight.com/)
  13. InterneTT (http://www.internettl.org/)
  14. ONYPHE (https://www.onyphe.io/)
